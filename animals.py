@@ -11,7 +11,7 @@ def mascotas_premiadas(mascota_ingresada):
     else:
         print("Buena suerte para la próxima vez!")
 
-nombre_mascota = input("Ingresa el nombre de una mascota: ")
+nombre_mascota = input("Ingresa el nombre de un animal: ")
 
 
 mascotas_premiadas(nombre_mascota.lower())  
